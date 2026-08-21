@@ -4,10 +4,6 @@ from readFraktData import fraktDict
 
 
 
-kommune_orders = {}
-
-
-
 # Create a new dictionary to store the total orders per municipality
 kommune_orders = {}
 kommune_frakt = {}
